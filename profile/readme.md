@@ -19,3 +19,6 @@ Experience the VicunaFinance Vaults – built on the foundation of Beefy Finance
 
 Vicuna Finance is committed to creating a robust, transparent, and secure decentralized finance ecosystem on the SONIC Blockchain. Our mission is to empower users with innovative financial products, such as borrowing, lending, and leveraged yield farming, to maximize their crypto investments. We prioritize security, conducting rigorous audits and implementing robust protocols to protect user assets. Transparency and community governance are at the core of our values, ensuring that decisions are made in the best interest of our users and fostering a trustworthy environment for all.
 
+## Links
+Webpage: [https://vicunafinance.com](url)
+Documentation: [https://vicuna-finance.gitbook.io/vicuna-finance-sonic](url)
